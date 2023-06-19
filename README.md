@@ -17,5 +17,5 @@ These are some changes I've made. They are more for my own reference later. Most
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     ```
-
+5. Changed `footer{margin-top: }` in the file `_sass/minimal-mistakes/_footer.scss` to change the footer height.
 
