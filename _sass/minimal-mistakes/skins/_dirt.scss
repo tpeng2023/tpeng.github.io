@@ -3,16 +3,31 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #f3f3f3 !default;
+// $background-color: #f3f3f3 !default;
+// $text-color: #252525 !default;
+// $muted-text-color: #4d4b46 !default;
+// $primary-color: #343434 !default;
+// $border-color: #e9dcbe !default;
+// $footer-background-color: #e9dcbe !default;
+// $link-color: #343434 !default;
+// $masthead-link-color: $text-color !default;
+// $masthead-link-color-hover: $text-color !default;
+// $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+$city-link-color:  #E30665;
+$city-color: #af1861;
+
+$background-color: #ffffff;
 $text-color: #252525 !default;
 $muted-text-color: #4d4b46 !default;
 $primary-color: #343434 !default;
-$border-color: #e9dcbe !default;
-$footer-background-color: #e9dcbe !default;
-$link-color: #343434 !default;
+$border-color: $city-color; 
+$footer-background-color: $border-color;
+$link-color: $city-link-color;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
 
 /* dirt syntax highlighting (base16) */
 $base00: #231e18 !default;

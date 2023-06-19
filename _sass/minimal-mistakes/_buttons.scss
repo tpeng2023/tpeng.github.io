@@ -92,6 +92,27 @@
 
   /* small button */
   &--small {
-    font-size: $type-size-7;
+    font-size: $type-size-8;
   }
+}
+
+
+.btn--city{
+  /* default */
+  display: inline-block;
+  border: 1px solid;
+  margin-bottom: 0.25em;
+  padding: 0.5em 1em;
+  font-family: $sans-serif;
+  text-align: center;
+  text-decoration: none;
+  border-radius: $border-radius;
+  border-color: #E10564;
+  cursor: pointer;
+  font-size: $type-size-8;
+}
+
+.btn--city:hover{
+  background-color: #E10564;
+  color:#fff;
 }

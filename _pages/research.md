@@ -1,13 +1,17 @@
 ---
 permalink: /research/
 title: "Research"
-# layout: single
+layout: single
 author_profile: true
 ---
 
 ## Working papers
 
-[Multinational Production, Technology Diffusion, and Economic Growth](/files/cx22_jmp_public.pdf) (with [Wei Xiang](https://sites.google.com/yale.edu/weixiang/home)). [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284058)]
+**Multinational Production, Technology Diffusion, and Economic Growth**, with [Wei Xiang](https://sites.google.com/yale.edu/weixiang/home). 
+
+[PDF](/assets/files/cx22_jmp_public.pdf){: .btn--city} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284058){: .btn--city}
+
+
 
 <!-- The economic activities and influence of multinational production (MP) are central to many policy discussions. In this paper, we provide a framework to understand the role of knowledge spillover from MP in the process of international development and economic growth.
 
@@ -19,7 +23,9 @@ The calibrated model yields the following results. First, MP plays a significant
 
 
 
-[Mechanics of Spatial Growth](/files/MSG103122_submission.pdf) (with [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/), [Fernando Parro](https://sites.google.com/site/fernandoparro1/home), and [Wei Xiang](https://sites.google.com/yale.edu/weixiang/home)). [[Online Appendix](/files/MSG103122_online_supplement.pdf)] [NBER WP [30579](/files/msg_wp30579.pdf)]
+**Mechanics of Spatial Growth**, with [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/), [Fernando Parro](https://sites.google.com/site/fernandoparro1/home), [Wei Xiang](https://sites.google.com/yale.edu/weixiang/home).  
+
+[PDF](/assets/files/MSG051023.pdf){: .btn--city} [NBER WP w30579](/files/msg_wp30579.pdf){: .btn--city} [NBER Appendix](/assets/files/w30579_appendix.pdf){: .btn--city}
 
 <!-- *We develop a dynamic spatial growth model to explore the role of trade and internal migration in the process of spatial development and aggregate growth. Growth is shaped by the best global and local ideas that contribute to the local stock of knowledge. Global ideas diffuse more to locations that are relatively more exposed to international trade. Local ideas are diffused across space when workers move to another location. We embed the diffusion of ideas through trade and migration into a multi-country, multi-region framework with international trade, forward-looking dynamic migration decisions, and endogenous capital accumulation. We apply our framework to study the role of initial conditions, international trade, and internal migration on China’s spatial development and aggregate growth during the 1990s and 2000s. We find that initial conditions across space, idea diffusion, and capital accumulation play an important role in understanding the process of spatial development and aggregate growth in China. Changes in international trade costs and mobility restrictions during the 1990s and 2000s also contribute to aggregate growth, with large heterogeneity across space.* -->
 
