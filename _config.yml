@@ -21,7 +21,7 @@ title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sheng Cai (Charles)"
 description              : "Personal website of Sheng Cai (Charles)."
-url                      : https://sheng-cai.com
+url                      : https://sheng-charles-cai.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sheng-charles-cai/sheng-charles-cai.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
