@@ -9,7 +9,7 @@ author_profile: true
 
 **Multinational Production, Technology Diffusion, and Economic Growth**, with [Wei Xiang](https://sites.google.com/yale.edu/weixiang/home). 
 
-[PDF](/assets/files/cx22_jmp_public.pdf){: .btn--city} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284058){: .btn--city}
+[PDF](/assets/files/cx22_jmp.pdf){: .btn--city} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284058){: .btn--city}
 
 
 
