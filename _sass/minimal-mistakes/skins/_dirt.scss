@@ -16,13 +16,15 @@
 
 $city-link-color:  #E30665;
 $city-color: #af1861;
+$gray: #7a8288 !default;
+$lighter-gray: mix(#fff, $gray, 90%) !default;
 
 $background-color: #ffffff;
 $text-color: #252525 !default;
 $muted-text-color: #4d4b46 !default;
 $primary-color: #343434 !default;
 $border-color: $city-color; 
-$footer-background-color: $border-color;
+$footer-background-color: $lighter-gray ;
 $link-color: $city-link-color;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;

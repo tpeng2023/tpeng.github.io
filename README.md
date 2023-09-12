@@ -20,3 +20,5 @@ These are some changes I've made. They are more for my own reference later. Most
 5. Changed the footer height in the file `_sass/minimal-mistakes/_footer.scss`.
 6. Defined a new button style for link to papers, in `_sass/minimal-mistakes/_buttons.scss`.
 7. Changed the `.author__avatar` in `_sass/minimal-mistakes/_sidebar.scss` to enlarge the image size and get rid of the border.
+8. Updated `$global-transition` in `_sass/minimal-mistakes/_variables.scss` to eliminate the transition lags.
+
