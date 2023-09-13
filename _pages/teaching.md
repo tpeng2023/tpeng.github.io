@@ -5,25 +5,20 @@ title: "Teaching"
 author_profile: true
 ---
 
-## Yale University (Teaching Assistant)
+### City University of Hong Kong 
+---
+*Advanced Macroeconomics (PhD level)* 
 
-**Introduction to Game Theory,**
-TA for Zvika Neeman 
 
-**Introduction to Data Analysis and Econometrics,**
-TA for Guillermo Noguera
+### Yale University (Teaching Assistant)
+---
 
-**General Equilibrium Theory,**
-TA for John Geanakoplos
-
-**Introductory Macroeconomics,**
-TA for Samuel Kortum and Aleh Tsyvinski 
-
-**International Economics,**
-TA for Peter Schott
-
-**Monetary Policy,**
-TA for William English
+*Introduction to Game Theory,* TA for Zvika Neeman\\
+*Introduction to Data Analysis and Econometrics,* TA for Guillermo Noguera\\
+*General Equilibrium Theory,* TA for John Geanakoplos\\
+*Introductory Macroeconomics,* TA for Samuel Kortum and Aleh Tsyvinski \\
+*International Economics,* TA for Peter Schott\\
+*Monetary Policy,* TA for William English
 
 <!-- with dates -->
 <!-- **Introduction to Game Theory, Yale College Summer Session**\\
