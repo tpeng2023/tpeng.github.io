@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-**Multinational Production, Technology Diffusion, and Economic Growth**, with [Wei Xiang](https://sites.google.com/yale.edu/weixiang/home). 
+**Multinational Production, Technology Diffusion, and Economic Growth**, with [Wei Xiang](https://sites.google.com/view/wei-xiang). 
 
 [PDF](/assets/files/cx22_jmp.pdf){: .btn--city} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284058){: .btn--city}
 
@@ -23,7 +23,7 @@ The calibrated model yields the following results. First, MP plays a significant
 
 
 
-**Mechanics of Spatial Growth**, with [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/), [Fernando Parro](https://sites.google.com/site/fernandoparro1/home), [Wei Xiang](https://sites.google.com/yale.edu/weixiang/home).  
+**Mechanics of Spatial Growth**, with [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/), [Fernando Parro](https://sites.google.com/site/fernandoparro1/home), [Wei Xiang](https://sites.google.com/view/wei-xiang).
 
 [PDF](/assets/files/MSG051023.pdf){: .btn--city} [NBER WP w30579](/files/msg_wp30579.pdf){: .btn--city} [NBER Appendix](/assets/files/w30579_appendix.pdf){: .btn--city}
 
