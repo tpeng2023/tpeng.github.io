@@ -13,7 +13,8 @@ redirect_from:
 
 <br />
 
-I am an Assistant Professor of [Economics](https://www.cb.cityu.edu.hk/ef/) at the [City University of Hong Kong](https://www.cityu.edu.hk/). I received my PhD in [Economics](https://economics.yale.edu/) from [Yale University](https://www.yale.edu/) in May 2023.
+I am a Ph.D. candidate in the Department of Economics, University at Albany, State University.
 
-My main research fields are international trade, macroeconomics and economic growth.
+My main research fields are international trade, Empirical Industrial Organization, and Transportation Economics.
+
 
