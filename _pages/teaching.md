@@ -5,20 +5,27 @@ title: "Teaching"
 author_profile: true
 ---
 
-### City University of Hong Kong 
+### Instructor, University at Albany
 ---
-*Advanced Macroeconomics (PhD level)* 
+*International Trade (AECO 360) in Spring 2022, Summer 2022, and Spring 2023* \\
+*Money and Banking (AECO 350) in Summer 2023* \\
+*Principles of Economics I: Microeconomics (AECO 110) in Fall 2022 and Fall 2023* \\
 
-
-### Yale University (Teaching Assistant)
+### Teaching Assistant, University at Albany
 ---
 
-*Introduction to Game Theory,* TA for Zvika Neeman\\
+*Macroeconomics I (AECO 601) in Fall 2021*\\
 *Introduction to Data Analysis and Econometrics,* TA for Guillermo Noguera\\
-*General Equilibrium Theory,* TA for John Geanakoplos\\
-*Introductory Macroeconomics,* TA for Samuel Kortum and Aleh Tsyvinski \\
-*International Economics,* TA for Peter Schott\\
-*Monetary Policy,* TA for William English
+*Industrial Organization (AECO 374/374W) in Fall 2020 and Spring 2021* \\
+*conomic Statistics (AECO 320) in Spring 2020* \\
+
+### Tutor, University at Albany
+---
+*Principles of Economics I: Microeconomics (AECO 110) in Fall 2019*\\
+*Principles of Economics I: Macroeconomics (AECO 111) in Fall 2019*\\
+*Intermediate Microeconomics (AECO 300) in Fall 2019*\\
+*Intermediate Macroeconomics (AECO 301) in Fall 2019*\\
+
 
 <!-- with dates -->
 <!-- **Introduction to Game Theory, Yale College Summer Session**\\
