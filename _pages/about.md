@@ -13,7 +13,7 @@ redirect_from:
 
 <br />
 
-I am a Ph.D. candidate in the Department of Economics, University at Albany, State University.
+I am a Ph.D. candidate in the Department of Economics, University at Albany, State University of New York.
 
 My main research fields are International trade, Empirical Industrial Organization, and Transportation Economics.
 
