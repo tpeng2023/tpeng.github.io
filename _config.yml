@@ -21,7 +21,7 @@ title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tingting Peng"
 description              : "Personal website of Tingting Peng"
-url                      : https://tpeng.github.io
+url                      : https://github.com/tpeng
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tpeng2023/tpeng.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -56,7 +56,7 @@ author:
       url: "mailto:tpeng2@albany.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ttpeng.weebly.com"
+      url: "https://tpeng2023.github.io/tpeng.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tpeng2023"
