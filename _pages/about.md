@@ -7,8 +7,8 @@ author_profile: true
 header:
   image: # foo-bar-identity.jpg
 redirect_from: 
-  # - /about/
-  # - /about.html
+   - /about/
+   - /about.html
 ---
 
 <br />
