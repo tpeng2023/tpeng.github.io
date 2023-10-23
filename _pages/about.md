@@ -19,8 +19,8 @@ My main research fields are international trade, Empirical Industrial Organizati
 
 I am on the 2023-2024 Job Market.
 
-Click [here](/assets/files/cv.pdf) for my full CV.\\
-Click [here](/assets/files/jmp.pdf) for my JMP.
+Click [here](/assets/files/cv.pdf) for my full CV.
+
 
 ## Contact Information
 
