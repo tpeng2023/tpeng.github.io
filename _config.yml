@@ -21,7 +21,7 @@ title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tingting Peng"
 description              : "Personal website of Tingting Peng"
-url                      : https://github.com/tpeng
+url                      : https://tpeng.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tpeng2023/tpeng.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
