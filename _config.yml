@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "default
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sheng Cai (Charles)"
+title                    : "Tingting Peng"
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sheng Cai (Charles)"
-description              : "Personal website of Sheng Cai (Charles)."
-url                      : https://sheng-charles-cai.github.io
+name                     : "Tingting Peng"
+description              : "Personal website of Tingting Peng"
+url                      : https://tpeng.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sheng-charles-cai/sheng-charles-cai.github.io"
+repository               : "tpeng2023/tpeng.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -45,27 +45,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sheng Cai (Charles)"
-  avatar           : "/assets/images/profile-2.jpeg"
-  bio              : "Assistant Professor at the City University of Hong Kong" 
+  name             : "Tingting Peng"
+  avatar           : "/assets/images/profile.jpeg"
+  bio              : "Ph.D. Candidate in Economics" 
   location         : # "Hong Kong"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:shengcai@cityu.edu.hk"
+      url: "mailto:tpeng2@albany.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sheng-cai.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sheng_c_cai"
+      url: "https://ttpeng.weebly.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sheng-charles-cai"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=MMrCOJgAAAAJ&hl=en"
+      url: "https://github.com/tpeng"
 
 # Disable Feed Icons
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disable-feed-icons
