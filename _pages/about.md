@@ -19,5 +19,5 @@ My main research fields are international trade, Empirical Industrial Organizati
 
 ## Contact Information
 
-Email: tpeng2@albany.edu
+Email: tpeng2@albany.edu\\
 Mobile: +1 518-605-8727 
