@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome!"
 # excerpt: "the homepage"
 # layout: single
 author_profile: true
@@ -17,4 +17,7 @@ I am a Ph.D. candidate in the Department of Economics, University at Albany, Sta
 
 My main research fields are international trade, Empirical Industrial Organization, and Transportation Economics.
 
+## Contact Information
 
+Email: tpeng2@albany.edu
+Mobile: +1 518-605-8727 
