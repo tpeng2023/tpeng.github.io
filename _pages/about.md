@@ -17,6 +17,8 @@ I am a Ph.D. candidate in the Department of Economics, University at Albany, Sta
 
 My main research fields are international trade, Empirical Industrial Organization, and Transportation Economics.
 
+I am on the 2023-2024 Job Market.
+
 Click [here](/assets/files/cv.pdf) for my full CV.\\
 Click [here](/assets/files/jmp.pdf) for my JMP.
 
