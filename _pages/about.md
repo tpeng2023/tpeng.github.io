@@ -15,12 +15,12 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Economics, University at Albany, State University.
 
-My main research fields are international trade, Empirical Industrial Organization, and Transportation Economics.
+My main research fields are International trade, Empirical Industrial Organization, and Transportation Economics.
 
 I am on the 2023-2024 Job Market.
 
 Click [here](/assets/files/cv.pdf) for my full CV.
-
+url: /assets/files/cv.pdf
 
 ## Contact Information
 
