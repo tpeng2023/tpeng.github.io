@@ -15,7 +15,7 @@ author_profile: true
 ---
 
 *Macroeconomics I (AECO 601) in Fall 2021*\\
-*Introduction to Data Analysis and Econometrics,* TA for Guillermo Noguera\\
+*Introduction to Data Analysis and Econometrics*\\
 *Industrial Organization (AECO 374/374W) in Fall 2020 and Spring 2021* \\
 *conomic Statistics (AECO 320) in Spring 2020* 
 
