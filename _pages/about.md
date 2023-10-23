@@ -19,7 +19,7 @@ My main research fields are International trade, Empirical Industrial Organizati
 
 I am on the 2023-2024 Job Market.
 
-Click [here](http://github.com/tpeng2023/assets/files/cv.pdf) for my full CV.
+Click [here](https://tpeng2023.github.io/tpeng.github.io/assets/files/cv.pdf) for my full CV.
 
 ## Contact Information
 
