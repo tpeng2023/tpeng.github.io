@@ -15,9 +15,9 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Economics, University at Albany, State University of New York.
 
-My main research fields are International trade, Empirical Industrial Organization, and Transportation Economics.
+I am on the job market during the 2023-2024 academic year.
 
-I am on the 2023-2024 Job Market.
+My main research fields are International Trade, Empirical Industrial Organization, and Transportation Economics.
 
 Click [here](https://tpeng2023.github.io/tpeng.github.io/assets/files/cv.pdf) for my full CV.
 
