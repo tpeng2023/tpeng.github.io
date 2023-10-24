@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Working papers
+## Working Papers
 
 **The Impact of Air Connectivity on Travel Trade: Evidence from Cross-border Card Payments**\\
 with [Chun-Yu Ho, Haruka Takayama, and Li Xu]. [Job Market Paper](https://github.com/tpeng2023/tpeng.github.io/blob/master/assets/files/jmp.pdf)
@@ -31,3 +31,6 @@ with [Liang Zhang, Bin Qiu, and Lamei Wu] (in Chinese, accepted at China Economi
 Abstract: Human capital is an important factor in driving economic growth. This paper uses the DID method to identify the causal effects of human capital accumulation on Chinese firms’ innovation. We find that human capital accumulation has a significant positive effect on firms’ innovation behavior and quality. In addition, trade is the key mechanism. Human capital accumulation promotes firms’ innovation through both the “factor aggregation effect” brought by import competition and the “market expansion effect” by learning effects in the export markets. The results reveal the necessity of human capital accumulation and the importance of innovation through trade openness.
 </p>
 
+## Work in Progress
+
+**Industrial Policy and Comparative Advantage: Evidence from Global Shipbuilding Industry**
