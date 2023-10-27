@@ -33,4 +33,5 @@ Abstract: Human capital is an important factor in driving economic growth. This 
 
 ## Work in Progress
 
-**Industrial Policy and Comparative Advantage: Evidence from Global Shipbuilding Industry**
+**Industrial Policy and Comparative Advantage: Evidence from Global Shipbuilding Industry**\\
+with [Chun-Yu Ho].
