@@ -10,7 +10,7 @@ author_profile: true
 ## Working Papers
 
 **[The Impact of Air Connectivity on Travel Trade: Evidence from Cross-border Card Payments](https://drive.google.com/file/d/1bJCisGsnVB3oo9kHdJQueS54UzZhZ6Pd/view?usp=drive_link)**\\
-with [Chun-Yu Ho, Haruka Takayama, and Li Xu]. [Job Market Paper](https://github.com/tpeng2023/tpeng.github.io/blob/master/assets/files/jmp.pdf)
+with [Chun-Yu Ho, Haruka Takayama, and Li Xu]. [Job Market Paper]
 
 <p style="text-align: justify;">
 Abstract: We study the impact of air connectivity on trade in travel services, the biggest tradable service sector. A novel dataset on on-site card payments made by Chinese travelers allows us to analyze the bilateral flow of travel services. We instrument for Chinese city-level air connectivity using a measure of destination countries' comparative advantage in air transportation. Our IV estimates indicate that a 1% increase in the weekly frequency of direct flights leads to a 1.8% increase in cross-border card transaction value. While air connections promote cross-border trade in travel services, we find that negative shocks to consumer tastes can diminish this effect. By contrast, such changes in consumer preferences have no effect on trade in goods. This research sheds light on the role of air connectivity in shaping trade in travel services and its interaction with consumer preferences.
