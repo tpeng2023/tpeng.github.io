@@ -20,10 +20,11 @@ author_profile: true
 
 ### Tutor, University at Albany
 ---
-*Principles of Economics I: Microeconomics (AECO 110) in Fall 2019*\\
-*Principles of Economics I: Macroeconomics (AECO 111) in Fall 2019*\\
 *Intermediate Microeconomics (AECO 300) in Fall 2019*\\
-*Intermediate Macroeconomics (AECO 301) in Fall 2019*
+*Intermediate Macroeconomics (AECO 301) in Fall 2019*\\
+*Principles of Economics I: Microeconomics (AECO 110) in Fall 2019*\\
+*Principles of Economics I: Macroeconomics (AECO 111) in Fall 2019*
+
 
 
 <!-- with dates -->
