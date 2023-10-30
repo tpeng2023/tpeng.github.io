@@ -19,7 +19,7 @@ I am on the job market during the 2023-2024 academic year.
 
 My main research fields are International Trade, Empirical Industrial Organization, and Transportation Economics.
 
-Click [here](https://tpeng2023.github.io/tpeng.github.io/assets/files/cv.pdf) for my full CV.
+Click [here](https://tpeng2023.github.io/tpeng.github.io/assets/files/CV.pdf) for my full CV.
 
 ## Contact Information
 
