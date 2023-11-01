@@ -63,7 +63,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tingting-peng-b69596297/"
-
+   - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/home"
+      
 # Disable Feed Icons
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disable-feed-icons
 atom_feed:
