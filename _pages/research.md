@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers
 
-**[The Impact of Air Connectivity on International Travel: Evidence from Cross-border Card Payments](https://drive.google.com/file/d/1ysb5ILyMFStCInbQHK0G4Jz5XHipDMp6/view?usp=drive_link)**\\
+**[The Impact of Air Connectivity on International Travel: Evidence from Cross-border Card Payments](https://github.com/tpeng2023/tpeng.github.io/blob/master/assets/files/jmp_main3.pdf)**\\
 with [Chun-Yu Ho, Haruka Takayama, and Li Xu]. [Job Market Paper](/assets/files/jmp_main3.pdf)
 
 <p style="text-align: justify;">
