@@ -14,6 +14,9 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "default",, "neon", "mint", "plum", "sunrise"
 
+# Search Engine Optimization (SEO)
+keywords: tingting peng, tingting peng econ, tingting peng ualbany, peng tingting
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Tingting Peng"
@@ -48,7 +51,7 @@ author:
   name             : "Tingting Peng"
   avatar           : "/assets/images/profile.jpeg"
   bio              : "Ph.D. Candidate in Economics" 
-  location         : # "Hong Kong"
+  location         : "United States"
   email            : 
   links:
     - label: "Email"
