@@ -26,7 +26,7 @@ Abstract: We examine the competitive effects of regional airline exits on the U.
 </p>
 
 **Human Capital Accumulation, Trade, and China’s Firms Innovation**\\
-with Liang Zhang, Bin Qiu, and Lamei Wu (forthcoming in China Economic Quarterly, published by Peking University in Chinese)
+with Liang Zhang, Bin Qiu, and Lamei Wu (forthcoming in China Economic Quarterly, published by Peking University Press, in Chinese)
 <p style="text-align: justify;">
 Abstract: Human capital is an important factor in driving economic growth. This paper uses the DID method to identify the causal effects of human capital accumulation on Chinese firms’ innovation. We find that human capital accumulation has a significant positive effect on firms’ innovation behavior and quality. In addition, trade is the key mechanism. Human capital accumulation promotes firms’ innovation through both the “factor aggregation effect” brought by import competition and the “market expansion effect” by learning effects in the export markets. The results reveal the necessity of human capital accumulation and the importance of innovation through trade openness.
 </p>
@@ -34,4 +34,4 @@ Abstract: Human capital is an important factor in driving economic growth. This 
 ## Work in Progress
 
 **Industrial Policy and Comparative Advantage: Evidence from Global Shipbuilding Industry**\\
-with [Chun-Yu Ho].
+with Chun-Yu Ho.
