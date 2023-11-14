@@ -18,7 +18,7 @@ Abstract: We study the impact of direct flight connections on international trav
 
 
 **[Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic](https://tpeng2023.github.io/tpeng.github.io/assets/files/airline_exit.pdf)**\\
-with Chun-Yu Ho and Li Xu. (Draft available upon request)
+with Chun-Yu Ho and Li Xu.
 
 <!-- *We .* -->
 <p style="text-align: justify;">
