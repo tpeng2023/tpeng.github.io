@@ -18,20 +18,18 @@ Abstract: Many countries seek to attract foreign travelers. How do direct flight
 
 
 **[Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic](https://tpeng2023.github.io/tpeng.github.io/assets/files/airline_exit.pdf)**\\
-with Chun-Yu Ho and Li Xu.
+with Chun-Yu Ho, Patrick McCarthy and Li Xu.
 
-<!-- *We .* -->
 <p style="text-align: justify;">
-Abstract: We examine the competitive effects of regional airline exits on the U.S. airline industry, leveraging the COVID-19 pandemic as a natural experiment. Using propensity score matching and difference-in-differences strategies, we find that consumers are worse off, on average. When regional airlines exit, there is a significant decrease in both market flights and capacity, with no immediate replacements. Additionally, market airfare rose by roughly 3.7%. Further, at the airline level, incumbent carriers increased flights and capacity by 11.7% and 12.2%, respectively. Low-cost and smaller carriers, in particular, captured more markets but offered worse on-time performance and higher prices. In summary, our findings reveal the multifaceted nature of competition dynamics in the airline industry, providing insights for the design of effective regulatory and competitive policies to benefit consumers.
+Abstract:We examine the competitive effects of regional airline exits on the U.S. airline industry during the period April 2019 through December 2020, leveraging the first wave of COVID-19 pandemic as a natural experiment. Using propensity score matching and difference-in-differences strategies, we find that, on average, consumers are worse off after the exits. When a market experiences a regional airline exit, there is a significant 16% decrease in flight availability with no immediate replacements and a rise in the average fare by roughly 6%. The adverse supply outcome is mitigated for longer-haul markets and markets dominated by full-service carriers. Turning to the competition dynamics after the exits, incumbent airlines expand their services and raise their fares. Competing regional airlines and airlines with greater cash reserves are more able to seize market share after the exits. Fares rise, but to a lesser extent for competing regional airlines. And the exits have less impact on-time performance.
 </p>
 
-**[Human Capital Accumulation, Trade, and China’s Firms Innovation](https://tpeng2023.github.io/tpeng.github.io/assets/files/human_capital.pdf)**, in Chinese\\
-with Liang Zhang, Bin Qiu, and Lamei Wu (forthcoming in China Economic Quarterly, published by Peking University Press)
+**Endowment, Market Potential, and Spatial Dynamics of Industrial Locations: Evidence from Global Shipbuilding**\\
+with Chun-Yu Ho and Dan Li.
 <p style="text-align: justify;">
-Abstract: Human capital is an important factor in driving economic growth. This paper uses the DID method to identify the causal effects of human capital accumulation on Chinese firms’ innovation. We find that human capital accumulation has a significant positive effect on firms’ innovation behavior and quality. In addition, trade is the key mechanism. Human capital accumulation promotes firms’ innovation through both the “factor aggregation effect” brought by import competition and the “market expansion effect” by learning effects in the export markets. The results reveal the necessity of human capital accumulation and the importance of innovation through trade openness.
+Abstract:We compile a novel panel dataset of ship order across 26 countries from 1940 to 2015 to examine the evolution of the global shipbuilding industry across time and space. We document a transition in the shipbuilding production location from European countries to Asian countries over the sample period. We further apply a gravity model to show that relative capital abundance and market potential account for this transition.
 </p>
 
-## Work in Progress
+## Publications
 
-**Industrial Policy and Comparative Advantage: Evidence from Global Shipbuilding Industry**\\
-with Chun-Yu Ho.
+**Liang Zhang, Bin Qiu, Lamei Wu and Tingting Peng. Human Capital Accumulation, Trade, and China’s Firms Innovation. China Economic Quarterly 24, no 2 (2024), in Chinese**\\
