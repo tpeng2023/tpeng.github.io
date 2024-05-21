@@ -30,6 +30,6 @@ with Chun-Yu Ho and Dan Li.
 Abstract:We compile a novel panel dataset of ship order across 26 countries from 1940 to 2015 to examine the evolution of the global shipbuilding industry across time and space. We document a transition in the shipbuilding production location from European countries to Asian countries over the sample period. We further apply a gravity model to show that relative capital abundance and market potential account for this transition.
 </p>
 
-## Publications
+## Publication
 
 Liang Zhang, Bin Qiu, Lamei Wu and Tingting Peng. Human Capital Accumulation, Trade, and China’s Firms Innovation. China Economic Quarterly 24, no 2 (2024), in Chinese
