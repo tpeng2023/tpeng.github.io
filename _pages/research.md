@@ -17,7 +17,7 @@ Abstract: Many countries seek to attract foreign travelers. How do direct flight
 </p>
 
 
-**[Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic](https://tpeng2023.github.io/tpeng.github.io/assets/files/Airline_exit.pdf)**\\
+**[Competitive Effects of Regional Airline Exit: Evidence from the COVID-19 Pandemic](https://tpeng2023.github.io/tpeng.github.io/assets/files/Airline_Exit.pdf)**\\
 with Chun-Yu Ho, Patrick McCarthy and Li Xu.
 
 <p style="text-align: justify;">
