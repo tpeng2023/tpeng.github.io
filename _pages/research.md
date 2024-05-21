@@ -10,7 +10,7 @@ author_profile: true
 ## Working Papers
 
 **[The Impact of Air Connectivity on International Travel: Evidence from Cross-border Card Payments](https://tpeng2023.github.io/tpeng.github.io/assets/files/jmp_main3.pdf)**\\
-with Chun-Yu Ho, Haruka Takayama, and Li Xu. (Job Market Paper)
+with Chun-Yu Ho, Haruka Takayama, and Li Xu.
 
 <p style="text-align: justify;">
 Abstract: Many countries seek to attract foreign travelers. How do direct flight connections affect the spending of international visitors? A novel dataset on card payments made by Chinese travelers through point-of-sale (POS) terminals enables us to investigate that question. We instrument for the frequency of direct flights between Chinese cities and foreign countries by exploiting overseas airport expansions as exogenous shocks. Our IV estimates indicate that a 1% increase in the weekly frequency of direct flights leads to a 2% increase in cross-border card transaction value. This suggests that in a city with the average frequency, adding one extra weekly direct flight increases the value of transactions by 52% to the destination country. While improving air connectivity promotes international travel, we find that negative shocks to consumer preferences for destination countries, such as boycotts, diminish the positive impact of air connectivity.
