@@ -25,11 +25,11 @@ Abstract: We examine the competitive effects of regional airline exits on the U.
 </p>
 
 **Endowment, Market Potential, and Spatial Dynamics of Industrial Locations: Evidence from Global Shipbuilding**\\
-with Chun-Yu Ho and Dan Li.
+with Chun-Yu Ho,  Dan Li, and Zhijia Xiao
 <p style="text-align: justify;">
-Abstract: We compile a novel panel dataset of ship order across 26 countries from 1940 to 2015 to examine the evolution of the global shipbuilding industry across time and space. We document a transition in the shipbuilding production location from European countries to Asian countries over the sample period. We further apply a gravity model to show that relative capital abundance and market potential account for this transition.
+Abstract: We compile a novel panel dataset of ship orders across 30 countries from 1896 to 2020 to examine the evolution of the global shipbuilding industry across time and space. We document a transition in the shipbuilding production location from European countries to Asian countries over the sample period. We further apply a panel error-correction model (ECM) to show that both relative capital endowment and market potential account for this transition in the long run, while market potential exerts a more significant influence on ship production in the short run.
 </p>
 
 ## Publication
 
-Liang Zhang, Bin Qiu, Lamei Wu and Tingting Peng. "Human Capital Accumulation, Trade, and China’s Firms Innovation." China Economic Quarterly 24, no 2 (2024), in Chinese
+Liang Zhang, Bin Qiu, Lamei Wu and Tingting Peng. "Human Capital Accumulation, Trade, and China’s Firms Innovation." China Economic Quarterly 24, no. 2 (2024), in Chinese
