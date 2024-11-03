@@ -39,3 +39,6 @@ Abstract: We compile a novel panel dataset of ship orders across 30 countries fr
 ## Publication
 
 Liang Zhang, Bin Qiu, Lamei Wu and Tingting Peng. "Human Capital Accumulation, Trade, and China’s Firms Innovation." China Economic Quarterly 24, no. 2 (2024), in Chinese
+
+## Work in Progress
+Export Destination and Input Quality: the Role of Processing Trade
