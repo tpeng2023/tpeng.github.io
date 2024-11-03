@@ -7,9 +7,9 @@ author_profile: true
 
 ### Instructor, University at Albany
 ---
-*International Trade (AECO 360) in Spring 2022, Summer 2022, and Spring 2023* \\
+*International Trade (AECO 360) in Spring 2022-Fall 2024* \\
 *Money and Banking (AECO 350) in Summer 2023* \\
-*Principles of Economics I: Microeconomics (AECO 110) in Fall 2022, Spring 2023, and Fall 2023* 
+*Principles of Economics I: Microeconomics (AECO 110) in Fall 2022-Spring 2024* 
 
 ### Teaching Assistant, University at Albany
 ---
