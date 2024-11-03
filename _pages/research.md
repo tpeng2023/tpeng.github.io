@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Working Papers
-**[Place-based Policy and Entrepreneurship: Evidence from Theme Park Openings](https://tpeng2023.github.io/tpeng.github.io/assets/files/JMP_Peng.pdf) (JMP)**\\
+**[Place-based Policy and Entrepreneurship: Evidence from Theme Park Openings](https://tpeng2023.github.io/tpeng.github.io/assets/files/JMP_Peng.pdf)** (JMP)\\
 with Chun-Yu Ho
 
 <p style="text-align: justify;">
