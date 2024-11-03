@@ -42,3 +42,7 @@ Liang Zhang, Bin Qiu, Lamei Wu and Tingting Peng. "Human Capital Accumulation, T
 
 ## Work in Progress
 Export Destination and Input Quality: the Role of Processing Trade
+
+<p style="text-align: justify;">
+Abstract: I study how processing trade affects the relationship between export destination and input price using Chinese customs data from 2000 to 2013. First, to address the unobserved shocks endogenous issue, I construct an instrumental variable by interacting with the real exchange rate in a destination with the firm’s share of exports to that destination. My IV estimates show that the relationship between destination income and input price is negative and significant. Specifically, a 10 percent increase in average destination GDP per capita is associated with approximately a 0.06 percent decrease in average input prices at the firm level. Second, I find that this relationship becomes larger for those firms that have a higher share of processing trade. Specifically, a 10 percent increase in average destination GDP per capita is associated with approximately a 0.07 percent decrease in average input prices for firms with a larger share of processing trade. My results reveal the important role of processing trade in understanding the effects of exporting on firms’ behaviors in the economy mainly driven by manufacturing industries.
+</p>
