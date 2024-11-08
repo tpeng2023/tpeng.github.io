@@ -10,7 +10,6 @@ author_profile: true
 ## Working Papers
 **Place-based Policy and Entrepreneurship: Evidence from Theme Park Openings** (JMP)\\
 with Chun-Yu Ho
-
 <p style="text-align: justify;">
 Abstract: This paper examines the economic effects of large theme park openings in China from 2000 to 2020 using a newly compiled dataset on county-level theme parks and entrepreneurship activities. Leveraging the staggered openings of theme parks across various counties, we document three findings. First, theme park openings lead to an approximately 14% increase in entrepreneurship activities, especially in tourism-related service sectors. This result is robust to the instrumental variable approach, heterogeneous treatment effect, alternative specifications, measurements, and selection methodology. Second, theme park openings generate spillover effects on neighboring counties within a 50-kilometer radius. Third, tourism and agglomeration are identified as the potential channels. Back-of-envelop calculations suggest that theme park openings promote employment by 11% and overall economic activities by 2%-3%. This study sheds new light on the evaluation of the effectiveness of tourism-related place-based policies.
 </p>
