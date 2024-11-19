@@ -41,7 +41,7 @@ Abstract: We examine the competitive effects of regional airline exits in the U.
 
 Liang Zhang, Bin Qiu, Lamei Wu and Tingting Peng. "Human Capital Accumulation, Trade, and China’s Firms Innovation." China Economic Quarterly 24, no. 2 (2024), in Chinese
 
-Lin Chen, Tingting Peng, Yanan Lv, Liang Zhang. "China's Agricultural Exports to Belt and Road Countries: A Perspective Based on the Extensive and Intensive Margins," Journal of Agrotechnical Economics, no. 6, (2018), in Chinese
+Lin Chen, Tingting Peng, Yanan Lv, Liang Zhang. "China's Agricultural Exports to Belt and Road Countries: A Perspective Based on the Extensive and Intensive Margins," Journal of Agrotechnical Economics, no. 6 (2018), in Chinese
 
 ## Work in Progress
 **Export Destination and Input Quality: the Role of Processing Trade**
