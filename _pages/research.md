@@ -15,7 +15,7 @@ Abstract: This paper examines the economic impacts of large theme park openings 
 </p>
 
 **[Endowment, Market Potential, and Spatial Dynamics of Industrial Locations: Evidence from Global Shipbuilding](https://tpeng2023.github.io/tpeng.github.io/assets/files/HoLiPengXiao.pdf)**\\
-with Chun-Yu Ho,  Dan Li, and Zhijia Xiao, R&R
+with Chun-Yu Ho,  Dan Li, and Zhijia Xiao, R&R at Economics Letters
 <p style="text-align: justify;">
 Abstract: We compile a novel panel dataset of ship orders across 30 countries from 1896 to 2020 to examine the evolution of the global shipbuilding industry across time and space. We document a transition in the shipbuilding production location from European countries to Asian countries over the sample period. We further apply a panel error-correction model (ECM) to show that both relative capital endowment and market potential account for this transition in the long run, while market potential exerts a more significant influence on ship production in the short run.
 </p>
