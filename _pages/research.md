@@ -14,7 +14,7 @@ with Chun-Yu Ho
 Abstract: This paper examines the economic impacts of large theme park openings in China from 2000 to 2020 using a newly compiled dataset on county-level theme parks and entrepreneurship. Leveraging the staggered openings of theme parks across various counties, we document three main findings. First, theme park openings lead to a 14% increase in entrepreneurial activities, especially in tourism-related service sectors. This result is robust to the instrumental variable approach, the heterogeneous treatment effect, alternative specification and measurement, and propensity score matching. Second, theme park openings generate spillover effects on neighboring counties within a 50-75 kilometer radius. Third, we identify tourism and agglomeration as the potential mechanisms driving these economic impacts. Back-of-the-envelop calculations suggest that theme park openings promote employment by 11% and overall economic activities by 2%-3%. This study sheds new light on the evaluation of the effectiveness of tourism-related place-based policies.
 </p>
 
-**Endowment, Market Potential, and Spatial Dynamics of Industrial Locations: Evidence from Global Shipbuilding**\\
+**[Endowment, Market Potential, and Spatial Dynamics of Industrial Locations: Evidence from Global Shipbuilding](https://tpeng2023.github.io/tpeng.github.io/assets/files/HoLiPengXiao.pdf)**\\
 with Chun-Yu Ho,  Dan Li, and Zhijia Xiao, R&R
 <p style="text-align: justify;">
 Abstract: We compile a novel panel dataset of ship orders across 30 countries from 1896 to 2020 to examine the evolution of the global shipbuilding industry across time and space. We document a transition in the shipbuilding production location from European countries to Asian countries over the sample period. We further apply a panel error-correction model (ECM) to show that both relative capital endowment and market potential account for this transition in the long run, while market potential exerts a more significant influence on ship production in the short run.
@@ -37,9 +37,11 @@ Abstract: We examine the competitive effects of regional airline exits in the U.
 </p>
 
 
-## Publication
+## Publication (from Master's Study)
 
 Liang Zhang, Bin Qiu, Lamei Wu and Tingting Peng. "Human Capital Accumulation, Trade, and China’s Firms Innovation." China Economic Quarterly 24, no. 2 (2024), in Chinese
+
+Lin Chen, Tingting Peng, Yanan Lv, Liang Zhang. "China's Agricultural Exports to Belt and Road Countries: A Perspective Based on the Extensive and Intensive Margins," Agricultural Technology and Economics, no. 6, (2018), in Chinese
 
 ## Work in Progress
 **Export Destination and Input Quality: the Role of Processing Trade**
