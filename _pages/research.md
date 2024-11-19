@@ -37,7 +37,7 @@ Abstract: We examine the competitive effects of regional airline exits in the U.
 </p>
 
 
-## Publication (from Master's Study)
+## Publication (pre-doctoral work)
 
 Liang Zhang, Bin Qiu, Lamei Wu and Tingting Peng. "Human Capital Accumulation, Trade, and China’s Firms Innovation." China Economic Quarterly 24, no. 2 (2024), in Chinese
 
