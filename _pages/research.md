@@ -32,7 +32,7 @@ Abstract: We examine the competitive effects of regional airline exits in the U.
 
 
 ## Publications (*pre-doctoral work)
-Tingting Peng, Chun-Yu Ho,  Dan Li, Zhijia Xiao. "Endowment, Market Potential, and Spatial Dynamics of Industrial Locations: Evidence from Global Shipbuilding." accepted at *Economics Letters*
+Ho, Chun-Yu, Li, Dan, Peng, Tingting, Xiao, Zhijia (2025) Endowment, Market Potential, and Spatial Dynamics of Industrial Locations: Evidence from Global Shipbuilding. *Economics Letters*, 248, 112114.
 
 *Liang Zhang, Bin Qiu, Lamei Wu, Tingting Peng. "Human Capital Accumulation, Trade, and China’s Firms Innovation." China Economic Quarterly 24, no. 2 (2024), in Chinese
 
