@@ -31,7 +31,7 @@ Abstract: We examine the competitive effects of regional airline exits in the U.
 </p>
 
 **Supply-induced Litigation and the Role of Informal Institutions**\\
-with Tingting Peng, Shaoqing Huang, and Mingda Zhang, submitted
+with Chun-Yu Ho, Shaoqing Huang, and Mingda Zhang, submitted
 <p style="text-align: justify;">
 Abstract: Access to justice is argued to be an integral part of sustainable development and inclusive growth. This paper examines how litigation demand responds to an increased supply of legal professionals, i.e. supply-induced litigation, in a developing economy using a newly constructed city-level panel dataset of litigation rate, law firms, and socioeconomic variables from China throughout 2013-23. Our empirical analysis reaches several conclusions. We find that an increase in the number of law firms has a positive and significant effect on the litigation rate, which supports supply-induced litigation. This result is robust to the instrument variable (IV) estimation. Further, we employ social trust, ethnic diversity, and religiosity as measures for informal institutions and find that supply-induced litigation is more pronounced for cities with higher social trust and lower ethnic diversity. In other words, there is a complementary between formal and informal institutions in driving the use of the judicial system.
 </p>
